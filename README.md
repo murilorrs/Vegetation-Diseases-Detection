@@ -1,4 +1,4 @@
-# Projeto de Detecção de Doenças em Plantações Tropicais
+# Projeto de Detecção de Doenças em Plantações Tropicais 🌱
 
 **Este projeto está em desenvolvimento** e visa utilizar técnicas de visão computacional para detectar doenças em plantações tropicais. O objetivo é criar um modelo que possa identificar condições adversas em imagens de plantas para apoiar a agricultura de precisão.
 
@@ -19,7 +19,7 @@
    pip install -r requirements.txt
 ***
 
-# Tropical Plantation Disease Detection Project
+# Tropical Plantation Disease Detection Project 🌱
 
 This project is under development and aims to utilize computer vision techniques to detect diseases in tropical plantations. The goal is to create a model that can identify adverse conditions in plant images to support precision agriculture.
 
