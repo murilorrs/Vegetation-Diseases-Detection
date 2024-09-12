@@ -4,7 +4,6 @@
 
 ## Tecnologias Utilizadas
 
-- **Python**: Linguagem de programação principal.
 - **Pandas**: Manipulação e análise de dados.
 - **NumPy**: Operações numéricas e manipulação de arrays.
 - **OpenCV**: Processamento e análise de imagens.
@@ -25,7 +24,6 @@ This project is under development and aims to utilize computer vision techniques
 
 ## Technologies Used
 
-- **Python**: Primary programming language.
 - **Pandas**: Data manipulation and analysis.
 - **NumPy**: Numerical operations and array manipulation.
 - **OpenCV**: Image processing and analysis.
