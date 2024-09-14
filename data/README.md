@@ -8,4 +8,4 @@ To adjust and train the model, follow the instructions:
    
 2. Rename it to "Plant-Dataset" and add it to the `data/` folder.
 
-Run the notebook after completing these steps.
+Run the unzip.py at `src/unzip.py` after completing these steps for unzip folders.

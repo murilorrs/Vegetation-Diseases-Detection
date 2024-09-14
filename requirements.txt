@@ -1,5 +1,4 @@
 numpy
-opencv-python
-torch
-torchvision
-yolov5
+pandas
+tensorflow
+matplotlib
