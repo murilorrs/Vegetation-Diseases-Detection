@@ -9,6 +9,3 @@ with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
     
 if not os.path.exists(extract_dir):
     os.makedirs(extract_dir)
-    
-    
-print('livia')
