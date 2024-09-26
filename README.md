@@ -20,7 +20,16 @@ O treinamento foi relizado em um dataset com 100 mil imagens e após o treinamen
 - **Scikit-learn**: Avaliação de modelos e métricas.
 - **Matplotlib/Seaborn**: Visualização de dados.
 
-- 
+## Pastas do projeto
+
+- `./content`: Modelo mais eficiente nos testes  
+- `./data`: README detalhando como utilizar o conjunto de dados // Dados necessários para o treinamento, datasets, valid train etc.
+- `./metris`: Algumas imagens de resultados de precisão do modelo.
+- `./src`: Notebook Jupyter com o pré-processamento, treino e metricas do modelo // arquivo .py responsável por descompactar o arquivo .zip do dataset quando baixado.
+- `./README`: this :)
+- `./requirements.txt`: Arquivo que contém as dependências para executar o projeto.
+
+
 ## Como Executar o Projeto
 
 1. **Instale as Dependências**:
